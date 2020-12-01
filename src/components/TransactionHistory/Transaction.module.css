@@ -1,0 +1,11 @@
+.table {
+  margin: 0 auto;
+}
+
+.head {
+  background: rgb(146, 146, 228);
+}
+
+.body tr:nth-child(even) {
+  background-color: #cca;
+}
